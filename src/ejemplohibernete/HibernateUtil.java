@@ -4,6 +4,10 @@ package ejemplohibernete;
 import org.hibernate.cfg.AnnotationConfiguration;
 import org.hibernate.SessionFactory;
 
+/**
+ *
+ * @author gustavo
+ */
 
 public class HibernateUtil {
 

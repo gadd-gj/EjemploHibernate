@@ -10,6 +10,11 @@ import javax.persistence.Entity;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
+/**
+ *
+ * @author gustavo
+ */
+
 @Entity
 @Table(name = "personas")
 public class Persona {

@@ -3,6 +3,11 @@ package ejemplohibernete;
 import org.hibernate.Session;
 import org.hibernate.Transaction;
 
+/**
+ *
+ * @author gustavo
+ */
+
 public class EjemploHibernete {
 
     public static void main(String[] args) {
